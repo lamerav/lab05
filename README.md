@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/SodAcetate/Lab05a/badge.svg?branch=main)](https://coveralls.io/github/SodAcetate/Lab05a?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/lamerav/lab05/badge.svg?branch=main)](https://coveralls.io/github/lamerav/lab05?branch=main)
 
 Badge is embedded using:
 ```
